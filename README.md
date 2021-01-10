@@ -2,9 +2,9 @@
 ### :rocket: Hi there!
 ---
 
-Member of [Hackclub](https://hackclub.com/) 
+Member of [Hackclub](https://hackclub.com/) and absolutely loving [MLH](https://mlh.io/)
 
-Currently developing JS and exploring Unity!
+Currently developing in Javascript and exploring Unity!
 
 *website underway*
 <!--
