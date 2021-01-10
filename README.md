@@ -1,5 +1,12 @@
-### Hi there 👋
+---
+### :rocket: Hi there!
+---
 
+Member of [Hackclub](https://hackclub.com/) and absolutely loving [MLH](https://mlh.io/)
+
+Currently developing in Javascript and exploring Unity!
+
+*website underway*
 <!--
 **alt-ab/alt-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
