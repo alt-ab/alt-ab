@@ -1,6 +1,6 @@
 ### :rocket: Hi there!
 
-Member of [Hackclub](https://hackclub.com/) and absolutely loving [MLH](https://mlh.io/)
+Member of @[Hackclub](https://hackclub.com/) and absolutely loving [MLH](https://mlh.io/)
 
 Currently developing in Javascript and exploring Unity!
 
