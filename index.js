@@ -7,9 +7,7 @@ let DATA = {
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
+    day: 'numeric', 
     timeZoneName: 'short',
     timeZone: 'America/Detroit'
   }),
