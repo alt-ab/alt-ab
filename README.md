@@ -1,22 +1,17 @@
-<h1>🚀 Hi there! My name is Alexandria!</h1>
-
----
+<h1>🚀 Hi there! My name is {{name}}!</h1>
 
 <p><a href="https://github.com/alt-ab" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 <!-- </a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> -->
 </a> <a href="https://www.linkedin.com/in/alexandria-b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+---
 
-<p align='center'> 📅 Today is Saturday, 10 July! </p>
-
-<br>
+<p align='center'> 📅 Today is {{date}}! </p>
 
 <h3> 🔭 About Me </h3>
 
 <p> I am a part time high school student and a fun time <b>front end web developer</b> with a passion for optimization and automation!</p>
-
-<br>
 
 <h3>⚡ What I'm working on </h3>
 
@@ -25,9 +20,8 @@
 - Competing in the new season at [Major League Hacking](https://mlh.io/)
 - Leading my school's [Hack Club](https://hackclub.com/)
 
-<br>
-
 <h3>🌱 Technologies I'm working with </h3>
+
 <p>
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Unbutu-DD4814?style=flat-square&logo=ubuntu&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -48,8 +42,6 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
-<br>
-
 <h3>💬 Ask me about</h3>
 
 - physics! 
@@ -60,19 +52,14 @@
 
 
 
-<br>
-
 <details closed>
-  <summary> 💪 <b>Things to keep me on my game</b> </summary>
-<br>
+  <summary> 💪 <b>Things to keep me on my game</b> </summary
   
 ![](https://komarev.com/ghpvc/?username=alt-ab&style=flat&color=99E5B5)
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alt-ab&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alxndriab&count_private=true&show_icons=true)
   
 </details>
-
-<br>
 
 ------
 
