@@ -1,10 +1,21 @@
-### :rocket: Hi there!
+# :rocket: Hi there! I'm Alexandria!
+---
 
-Member of @[Hackclub](https://hackclub.com/) and absolutely loving [MLH](https://mlh.io/)
+🔭 I am part high school upperclassman and part front end web developer with a passion for **optimization and automation**!
 
-Currently developing in Javascript and exploring Unity!
+🌱 
 
-*website underway*
+
+<details closed>
+  <summary> <b>Things to keep me on my game</b> </summary>
+<br>
+  
+![](https://komarev.com/ghpvc/?username=alt-ab&style=flat&color=99E5B5)
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alt-ab&count_private=true&show_icons=true)
+  
+<br>
+
 <!--
 **alt-ab/alt-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
