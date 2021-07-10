@@ -8,7 +8,7 @@
 </p>
 
 
-<p align='center'> 📅 Today is Saturday, 10 July, 04:46 GMT-4! </p>
+<p align='center'> 📅 Today is Saturday, 10 July! </p>
 
 <br>
 
