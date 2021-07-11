@@ -47,7 +47,7 @@
 - [FIRST](https://www.firstinspires.org/) or robotics! (7 year veteran and World Championship competitor 2019)
 - [**WSL**](https://docs.microsoft.com/en-us/windows/wsl/install-win10)!
 
-
+<i>(space pictures coming soon!)</i>
 
 <details closed>
   <summary> 💪 <b>Things to keep me on my game</b> </summary
