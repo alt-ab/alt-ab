@@ -7,8 +7,6 @@
 
 ---
 
-<p align='center'> 📅 Today is Saturday, July 10! </p>
-
 <h3> 🔭 About Me </h3>
 
 <p> I am a part time high school student and a fun time <b>front end web developer</b> with a passion for optimization and automation!</p>
@@ -65,7 +63,7 @@
 
 <br>
 
-<p align="center">This README file generates every <b>6 hours</b>!<br> Created with GitHub Workflows and <a href='https://github.com/mustache/mustache/blob/master/README.md' target='_blank'>Mustache</a>! And the tutorial linked below!</p>
+<p align="center">This README file generates every <b>6 hours</b>! Last update on July 10! <br> Created with GitHub Workflows and <a href='https://github.com/mustache/mustache/blob/master/README.md' target='_blank'>Mustache</a>! And the tutorial linked below!</p>
 
 <a href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">
     <img src="https://img.shields.io/badge/Tutorial-@thmsgbrt-purple?link=https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91?" alt="Tutorial from @thmsgbrt"/>
