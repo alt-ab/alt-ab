@@ -19,7 +19,6 @@
 - Leading my school's [Hack Club](https://hackclub.com/)
 
 <h3>🌱 Technologies I'm working with </h3>
-
 <p>
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Unbutu-DD4814?style=flat-square&logo=ubuntu&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -63,7 +62,7 @@
 
 <br>
 
-<p align="center">This README file generates every <b>6 hours</b>! Last update on July 10! <br> Created with GitHub Workflows and <a href='https://github.com/mustache/mustache/blob/master/README.md' target='_blank'>Mustache</a>! And the tutorial linked below!</p>
+<p align="center">This README file generates every <b>6 hours</b>! Last update on Sunday, 11 July, 10:59 GMT-4! <br> Created with GitHub Workflows and <a href='https://github.com/mustache/mustache/blob/master/README.md' target='_blank'>Mustache</a>! And the tutorial linked below!</p>
 
 <a href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">
     <img src="https://img.shields.io/badge/Tutorial-@thmsgbrt-purple?link=https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91?" alt="Tutorial from @thmsgbrt"/>
